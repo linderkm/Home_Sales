@@ -4,6 +4,6 @@ This repo contains code for the Module 22 Challenge. Code for this challenge can
 
 
 ### References
-(1) Module 22; Lesson 3; Activity 1
-(2) Module 22; Lesson 2; Activity 3
-(3) Module 22; Lesson 3; Activity 5
+1. Module 22; Lesson 3; Activity 1
+2. Module 22; Lesson 2; Activity 3
+3. Module 22; Lesson 3; Activity 5
